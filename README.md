@@ -125,7 +125,7 @@ CREATE DATABASE FutStats
 ```
 ![Credenciais](./LD1-FutStats-main/proj/FutStats/FutStats/imagens/comando1sql.png)
 
-E executar o ficheiro SQL script que se encontra ./proj/FutStats/FutStats/database/script.sql
+E executar o ficheiro SQL script que se encontra ./LD1-FutStats-main/proj/FutStats/FutStats/database/script.sql
 
 ![Credenciais](./LD1-FutStats-main/proj/FutStats/FutStats/imagens/comando2sql.png)
 
