@@ -1,4 +1,4 @@
-# Futstats <img src="./proj/FutStats/FutStats/imagens/logo_backback.jpeg" alt="Logo" width="180" align="right">
+# Futstats <img src="./LD1-FutStats-main/proj/FutStats/FutStats/imagens/logo_backback.jpeg" alt="Logo" width="180" align="right">
 
 <br>
 O Futstats é uma plataforma web para consulta e análise de estatísticas e detalhes do mundo do futebol. Atravez da mesma podes aceder a
