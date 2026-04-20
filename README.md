@@ -29,7 +29,7 @@ Acesso a informações detalhadas sobre :
 ## Estrutura
 
 O Futstats é uma aplicação que integra diversas tecnologias para oferecer uma
-experiência completa aos usuários. O projeto é dividido em duas partes principais:
+experiência completa aos Utilizadores. O projeto é dividido em duas partes principais:
 
 ![Estrutura-do-Projeto](./LD1-FutStats-main/proj/FutStats/FutStats/imagens/estrutura.png)
 
@@ -37,7 +37,7 @@ experiência completa aos usuários. O projeto é dividido em duas partes princi
 
 ### Front-end
 
-O front-end é responsável pela apresentação e interação com o usuário. Desenvolvido em **React Native**, ele é
+O front-end é responsável pela apresentação e interação com o utilizador. Desenvolvido em **React Native**, ele é
 composto por várias páginas e componentes, cada um com um objetivo específico. Exemplos de páginas incluem:
 
 - Página de Navegação (`AppNavigator.js`)
