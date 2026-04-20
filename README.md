@@ -31,9 +31,9 @@ Acesso a informações detalhadas sobre :
 O Futstats é uma aplicação que integra diversas tecnologias para oferecer uma
 experiência completa aos usuários. O projeto é dividido em duas partes principais:
 
-![Estrutura-do-Projeto](./proj/FutStats/FutStats/imagens/estrutura.png)
+![Estrutura-do-Projeto](./LD1-FutStats-main/proj/FutStats/FutStats/imagens/estrutura.png)
 
-![Base-de-Dados](./proj/FutStats/FutStats/imagens/base_de_dados.png)
+![Base-de-Dados](./LD1-FutStats-main/proj/FutStats/FutStats/imagens/base_de_dados.png)
 
 ### Front-end
 
@@ -73,24 +73,24 @@ necessário configurar um Login com representado nas seguintes imagens.
 
 Inicialmente, apos a instalação do SQL Server Management Studio, irá se deparar com a seguinte interface.
 
-<img src="./proj/FutStats/FutStats/imagens/sqlserver1.png" alt="sqlsever1">
+<img src="./LD1-FutStats-main/proj/FutStats/FutStats/imagens/sqlserver1.png" alt="sqlsever1">
 
 Onde bastará permir o botão escrito "Connect".
 
-<img src="./proj/FutStats/FutStats/imagens/sqlserver2.png" alt="sqlsever2">
+<img src="./LD1-FutStats-main/proj/FutStats/FutStats/imagens/sqlserver2.png" alt="sqlsever2">
 
 De seguida será necessário permir botão direito na sua máquina local e selecionar "Properties"
 
-<img src="./proj/FutStats/FutStats/imagens/sqlserver3.png" alt="sqlsever3">
+<img src="./LD1-FutStats-main/proj/FutStats/FutStats/imagens/sqlserver3.png" alt="sqlsever3">
 
 Quando for aberto este painel será necessario ir para a aba "Security" e selecionar a área circulada e clicar "OK".
 
-<img src="./proj/FutStats/FutStats/imagens/sqlserver4.png" alt="sqlsever4">
+<img src="./LD1-FutStats-main/proj/FutStats/FutStats/imagens/sqlserver4.png" alt="sqlsever4">
 
 Opós estes passos, seguiremos para a aba "Security" e "Login" no menu lateral, e clicamos com o botão direito
 no "Login", selecionado o "New Login". 
 
-<img src="./proj/FutStats/FutStats/imagens/sqlserver5.png" alt="sqlsever5">
+<img src="./LD1-FutStats-main/proj/FutStats/FutStats/imagens/sqlserver5.png" alt="sqlsever5">
 
 Quando for aberto este painel será necessario selécionar a oção do SQL Server authentication
 e desmarcar a opção selécionada opor defauth.
@@ -103,31 +103,31 @@ aconcelhado inserir as mesmas credenciais aqui inseridas.)
 | user       | 1234        |
 
 
-<img src="./proj/FutStats/FutStats/imagens/sqlserver6.png" alt="sqlsever6">
+<img src="./LD1-FutStats-main/proj/FutStats/FutStats/imagens/sqlserver6.png" alt="sqlsever6">
 
 Para continuar, será necessário ir ate á aba "Server Roles" e selecionar todas as opções de permisões de acesso.
 
-<img src="./proj/FutStats/FutStats/imagens/sqlserver7.png" alt="sqlsever7">
+<img src="./LD1-FutStats-main/proj/FutStats/FutStats/imagens/sqlserver7.png" alt="sqlsever7">
 
 Agora basta desconectar do SQL e conectar nas respétivas "fichas com cruz e sem cruz".
 
-<img src="./proj/FutStats/FutStats/imagens/sqlserver8.png" alt="sqlsever8">
+<img src="./LD1-FutStats-main/proj/FutStats/FutStats/imagens/sqlserver8.png" alt="sqlsever8">
 
 E conectar com as respetivas credências inseridas.
 (Nota: Vale lembrar que é necessário copiar o "Server Name" para ser alterardo no código o nome da
 máquina local que difere. E será necessário escolher a porta associada por defauth do seu computador, referente ao SQl)
 
-![Credenciais](./proj/FutStats/FutStats/imagens/credenciais.png)
+![Credenciais](./LD1-FutStats-main/proj/FutStats/FutStats/imagens/credenciais.png)
 
 Por último basta criar a base de dados com o seguinte comando:
 ```
 CREATE DATABASE FutStats
 ```
-![Credenciais](./proj/FutStats/FutStats/imagens/comando1sql.png)
+![Credenciais](./LD1-FutStats-main/proj/FutStats/FutStats/imagens/comando1sql.png)
 
 E executar o ficheiro SQL script que se encontra ./proj/FutStats/FutStats/database/script.sql
 
-![Credenciais](./proj/FutStats/FutStats/imagens/comando2sql.png)
+![Credenciais](./LD1-FutStats-main/proj/FutStats/FutStats/imagens/comando2sql.png)
 
 ## Uso
 
@@ -169,36 +169,36 @@ Para isso, basta utilizar as seguintes credenciais:
 
 ### Página de Login
 
-![Login](./proj/FutStats/FutStats/imagens/login.png)
+![Login](./LD1-FutStats-main/proj/FutStats/FutStats/imagens/login.png)
 
 ### Página de Registo
 
-![Registo](./proj/FutStats/FutStats/imagens/registro.png)
+![Registo](./LD1-FutStats-main/proj/FutStats/FutStats/imagens/registro.png)
 
 ### Página de Administrador
 
-![Admin](./proj/FutStats/FutStats/imagens/adm.png)
+![Admin](./LD1-FutStats-main/proj/FutStats/FutStats/imagens/adm.png)
 
 ### Página de Equipas
 
-![Equipas](./proj/FutStats/FutStats/imagens/esquipa.png)
+![Equipas](./LD1-FutStats-main/proj/FutStats/FutStats/imagens/esquipa.png)
 
 ### Página de Jogadores
 
-![Jogadores](./proj/FutStats/FutStats/imagens/jogador.png)
+![Jogadores](./LD1-FutStats-main/proj/FutStats/FutStats/imagens/jogador.png)
 
 
 ### Página de Tabelas
 
-![Tabelas](./proj/FutStats/FutStats/imagens/tabela_inicial.png)
+![Tabelas](./LD1-FutStats-main/proj/FutStats/FutStats/imagens/tabela_inicial.png)
 
 ### Página do Perfil
 
-![Perfil](./proj/FutStats/FutStats/imagens/perfil.png)
+![Perfil](./LD1-FutStats-main/proj/FutStats/FutStats/imagens/perfil.png)
 
 ### Vídeo Final de Demonstração
 
-[![Vídeo de Demonstração](./proj/FutStats/FutStats/imagens/login.png)](https://youtu.be/Yak37LqXT-Q)
+[![Vídeo de Demonstração](./LD1-FutStats-main/proj/FutStats/FutStats/imagens/login.png)](https://youtu.be/Yak37LqXT-Q)
 
 ## Resumo Final
 
@@ -211,4 +211,4 @@ Trabalho realizado por:
 - [Jorge Castro] nº 210094
 - [Guilherme Moleiro] nº 2024349
 
-![ISTEC](./proj/FutStats/FutStats/imagens/ISTEC.png)
+![ISTEC](./LD1-FutStats-main/proj/FutStats/FutStats/imagens/ISTEC.png)
