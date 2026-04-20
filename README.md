@@ -208,7 +208,7 @@ Com uma interface amigável e recursos interativos, a plataforma facilita o acom
 desempenho das suas equipas e jogadores favoritos. Explore, contribua e ajude-nos a tornar o Futstats ainda melhor!
 
 Trabalho realizado por:
-- [Jorge Castro] nº 210094
+- [Jorge Castro] nº 2024454
 - [Guilherme Moleiro] nº 2024349
 
 ![ISTEC](./LD1-FutStats-main/proj/FutStats/FutStats/imagens/ISTEC.png)
